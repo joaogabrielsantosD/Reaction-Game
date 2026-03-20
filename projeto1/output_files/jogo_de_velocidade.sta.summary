@@ -1,0 +1,137 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -4.455
+TNS   : -74.754
+
+Type  : Slow 1200mV 85C Model Setup 'inst4'
+Slack : -0.554
+TNS   : -0.554
+
+Type  : Slow 1200mV 85C Model Setup 'debounce:inst95|inst1'
+Slack : -0.391
+TNS   : -0.775
+
+Type  : Slow 1200mV 85C Model Hold 'debounce:inst95|inst1'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.742
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst4'
+Slack : 0.826
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'debounce:inst95|inst1'
+Slack : -1.624
+TNS   : -6.496
+
+Type  : Slow 1200mV 85C Model Removal 'debounce:inst95|inst1'
+Slack : 1.780
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -31.253
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'debounce:inst95|inst1'
+Slack : -1.487
+TNS   : -5.948
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -3.992
+TNS   : -65.471
+
+Type  : Slow 1200mV 0C Model Setup 'inst4'
+Slack : -0.391
+TNS   : -0.391
+
+Type  : Slow 1200mV 0C Model Setup 'debounce:inst95|inst1'
+Slack : -0.254
+TNS   : -0.461
+
+Type  : Slow 1200mV 0C Model Hold 'debounce:inst95|inst1'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.691
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst4'
+Slack : 0.814
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'debounce:inst95|inst1'
+Slack : -1.372
+TNS   : -5.488
+
+Type  : Slow 1200mV 0C Model Removal 'debounce:inst95|inst1'
+Slack : 1.642
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -31.253
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'debounce:inst95|inst1'
+Slack : -1.487
+TNS   : -5.948
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -1.419
+TNS   : -22.245
+
+Type  : Fast 1200mV 0C Model Setup 'inst4'
+Slack : -0.049
+TNS   : -0.049
+
+Type  : Fast 1200mV 0C Model Setup 'debounce:inst95|inst1'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'debounce:inst95|inst1'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst4'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'debounce:inst95|inst1'
+Slack : -0.159
+TNS   : -0.636
+
+Type  : Fast 1200mV 0C Model Removal 'debounce:inst95|inst1'
+Slack : 0.756
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -23.235
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'debounce:inst95|inst1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
